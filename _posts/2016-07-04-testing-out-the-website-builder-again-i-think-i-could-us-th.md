@@ -7,15 +7,17 @@ keywords: []
 description: >-
   Testing out the website builder again. I think I could us this to publish out
   photos...
-datePublished: '2016-07-04T16:59:57.704Z'
-dateModified: '2016-07-04T16:58:11.451Z'
+datePublished: '2016-07-04T17:07:51.508Z'
+dateModified: '2016-07-04T17:07:42.320Z'
 title: ''
-author: []
+author:
+  - name: ''
+    url: ''
+sourcePath: >-
+  _posts/2016-07-04-testing-out-the-website-builder-again-i-think-i-could-us-th.md
 authors: []
 publisher: null
 starred: false
-sourcePath: >-
-  _posts/2016-07-04-testing-out-the-website-builder-again-i-think-i-could-us-th.md
 url: testing-out-the-website-builder-again-i-think-i-could-us-th/index.html
 _type: Article
 
