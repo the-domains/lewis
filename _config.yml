@@ -2,6 +2,7 @@ name: lewis
 favicon: null
 layout_spectrum: 0.7466771851759404
 typography_spectrum: 0.6175231987144798
+title: Lewis Blog
 cta:
   domain: null
   bucket: null
