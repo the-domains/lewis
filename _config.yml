@@ -1,0 +1,28 @@
+name: lewis
+favicon: null
+layout_spectrum: 0.7466771851759404
+typography_spectrum: 0.6175231987144798
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.1485917279496789
+  lightness: 0.24918420263566077
+  saturation: 0.684629715513438
+  rhythmicContrast: 0.6966391915921122
+purpose: []
