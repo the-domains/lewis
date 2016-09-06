@@ -1,29 +1,41 @@
-name: Lewis
-favicon: null
-layout_spectrum: 0.91002
-typography_spectrum: 0.34592
 title: Lewis Blog
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+color:
+  saturation: 0.5
+  brandStrength: 0.1785714
+  lightness: 0.625
+  brandColors:
+    - '#323834'
+    - '#90A0C4'
+    - '#FFFFD9'
+    - '#FBB593'
+    - '#B65C38'
+  rhythmicContrast: 0.25
 cta:
-  domain: null
   bucket: null
   version: null
+  domain: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
+favicon: null
+name: Lewis
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
-  brandStrength: 0.1875
-  lightness: 0.625
-  saturation: 0.5
-  rhythmicContrast: 0.25
-purpose: []
+typography_spectrum: 0.05263158
+layout_spectrum: 1
